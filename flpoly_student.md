@@ -1,16 +1,16 @@
-## First Name Last Name
+## Grace Sturtevant
 
-### Term Year 
+### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Data Science
 
-- Course 2
+- Analytically Geometry and Calculus 1
 
-- Course 3
+- Intro to Python
 
-- Course 4
+- Cloud Infrastructure and Service 
 
 **Hobbies:**
 
