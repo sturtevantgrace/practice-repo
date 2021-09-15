@@ -6,11 +6,20 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Data Science
 
-- Analytically Geometry and Calculus 1
+- Analytic Geometry and Calculus 1
 
 - Intro to Python
 
 - Cloud Infrastructure and Service 
+
+| Prefix/Number | Name                                | Credits
+|:--------------|:------------------------------------|:---------------------
+|**COP 2073**   |**Intro Data Science**               |3
+|**COP 2034**   |**Intro to Programming Using Python**|3
+|**CTS 2375**   |**Cloud Infrastructure and Services**|3
+|**MAC 2311**   |**Analytic Geometry and Calculus 1** |4
+
+
 
 **Hobbies:**
 
